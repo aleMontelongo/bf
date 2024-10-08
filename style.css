@@ -1,0 +1,59 @@
+body{
+    background-image: url("https://lamerch.pe/cdn/shop/collections/MOAAC.jpg?v=1701593138");
+}
+
+#wrapper{
+    width: 100%;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.8);
+    height: 2700px;
+
+}
+
+#artista{
+    text-align: center;
+}
+
+.informaciong{
+    text-align: center;
+
+}
+
+.titulo{
+    text-align: center;
+}
+
+.integrantes{
+    width: 70%;
+    height: 300px;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+    border-radius: 5%;
+    background-color: #6e9fdc;
+}
+
+.discos {
+    display: flex;
+    justify-content: space-between; /* Alinea los álbumes horizontalmente */
+    padding: 30px;
+}
+
+.disco {
+    background-color: #8980cf; 
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    width: 20%; 
+}
+
+.discos img {
+    border-radius: 10px;
+    margin-bottom: 10px;
+
+}
+
+.gira {
+
+    text-align: center;
+}
